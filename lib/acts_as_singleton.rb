@@ -1,3 +1,5 @@
+require 'active_record'
+
 module ActiveRecord
   # A lightweight singleton library for your Active Record models.
   #
